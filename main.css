@@ -1,0 +1,39 @@
+body {
+    font-family: "Comic Sans MS"
+}
+
+h1 {
+    text-align: center;
+    font-size: 58px;
+}
+
+.button {
+    height:50px;
+    width:250px;
+    margin:auto;
+    display:block;
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+    background-color: rgb(48, 148, 82);
+    border-radius: 24px
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+}
+
+.computerResult {
+    text-align: center;
+    color: purple;
+    font-size: 42px
+}
+
+.showResult {
+    text-align: center;
+    color: red;
+    font-size: 42px
+}
+
+
+
